@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 3
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: f8ebdf8de4226e24083219249362d5e8, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 213c9a83106934e40a7e0703bf0be01b, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -73699,6 +73699,21 @@ PrefabInstance:
       propertyPath: cameraValidity.field
       value: 
       objectReference: {fileID: 41248149}
+    - target: {fileID: 6410104322628522273, guid: 52f87534fdefc6b47aadeae3a66454d8,
+        type: 3}
+      propertyPath: overlayColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6410104322628522273, guid: 52f87534fdefc6b47aadeae3a66454d8,
+        type: 3}
+      propertyPath: overlayColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6410104322628522273, guid: 52f87534fdefc6b47aadeae3a66454d8,
+        type: 3}
+      propertyPath: overlayColor.b
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 52f87534fdefc6b47aadeae3a66454d8, type: 3}
 --- !u!114 &1989946355 stripped
